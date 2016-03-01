@@ -1,0 +1,54 @@
+#cadre{
+
+    border:1px solid black;
+    text-align:center;
+background:white;
+}
+
+.pricing-price{
+    background: -moz-linear-gradient(top,#ffffff,#ececec) !important;
+}
+
+.title{
+    margin: .67em 0;
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: -2px;
+    color: #8a8a8a;
+    text-shadow: 0 1px 0 #fff;
+    text-transform: none;
+
+    font-weight: bold;
+}
+
+#prix{
+    font-weight:bold;
+    color:darkblue;
+}
+.prix_widget{
+    font-size: 25px;
+    font-family: arial;
+    font-style: italic;
+    font-weight: bold;
+    text-shadow: 0 1px 0 #fff;
+    line-height: 55px;
+    text-transform: none;
+    text-align: center;
+
+}
+
+#bouton{
+
+    font-size:1.5em;
+
+}
+
+
+ul.check li{
+    background: transparent url(http://www.fleximeuble.fr/images/list-check.png) no-repeat 0 7px;
+    padding: 0 0 0 20px;
+    list-style-type: none;
+    line-height: 28px;
+    font-size: 14px;
+    text-align:left;
+}
